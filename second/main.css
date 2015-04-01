@@ -1,0 +1,98 @@
+html body {
+	height: 100%;
+	width: 100%;
+	margin: 0 auto;
+	background: #D8D8D8;
+}
+
+p {
+	font-family: "Helvetica Neue";
+	font-weight: 100;
+	margin: 15px 25px 10px 25px;
+}
+
+.head-box {
+	margin: auto;
+	margin-top: 25px;
+	height: auto;
+	width: 50%;
+	background: #FFFFFF;
+	overflow: scroll;
+}
+
+.head-box p {
+	font-size: 14px;
+}
+
+.button {
+	width: 95px;
+	height: 40px;
+	float: left;
+	margin: 0px 0px 15px 25px;
+}
+
+.button-1 {
+	background: #CD0D24;
+}
+
+.button-2 {
+	background: #4E92DF;
+}
+
+.button p {
+	font-size: 20px;
+	color: #FFFFFF;
+	z-index: 1;
+	position: relative;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	text-align: center;
+	position: relative;
+	top: 9px;
+}
+
+.mid-box {
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 40px;
+	background: #FFFFFF;
+	width: 50%;
+	height: auto;
+	overflow: scroll;
+}
+
+.image-box {
+	margin: auto;
+	background: #4A4A4A;
+	height: 300px;
+	width: 600px;
+	margin-top: 30px;
+}
+
+.image-box p {
+	text-align: center;
+	color: #FFFFFF;
+	position: relative;
+	top: 135px;
+	font-size: 22px;
+}
+
+.img-caption {
+	margin: auto;
+	margin-top: 25px;
+	margin-bottom: 40px;
+}
+
+.footer {
+	background: #323232;
+	height: auto;
+	width: 100%;
+	margin: auto;
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+}
+
+.footer p {
+	color: #FFFFFF;
+}
