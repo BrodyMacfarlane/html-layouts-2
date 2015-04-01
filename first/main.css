@@ -1,0 +1,77 @@
+html body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+.head-div {
+	width: 31%;
+	height: 100px;
+	display: inline-block;
+	margin: 15px;
+}
+
+.left {
+	background: #CE0D24;
+}
+
+.mid {
+	background: #4E92DF;
+}
+
+.right {
+	background: #4A4A4A;
+}
+
+.paragraph {
+	margin: 15px;
+	margin-bottom: 30px;
+	font-family: arial;
+}
+
+.mid-div {
+	width: 97.6%;
+	height: 200px;
+	margin: 15px;
+}
+
+.main {
+	background: #4E92DF;
+}
+
+.small {
+	background: #CE0D24;
+	float: left;
+	position: relative;
+	bottom: 230px;
+	width: 32%;
+	z-index: 1;
+}
+
+.foot-div {
+	width: 97.6%;
+	height: 90px;
+	margin: 15px;
+}
+
+.main-1 {
+	background: #4E92DF;
+}
+
+.small-1 {
+	background: #CE0D24;
+	width: 34%;
+	float: right;
+	position: relative;
+	bottom: 120px;
+	right: 5px;
+}
+
+.small-2 {
+	background: #4A4A4A;
+	width: 20%;
+	float: right;
+	position: relative;
+	bottom: 120px;
+	left: 415px;
+}
